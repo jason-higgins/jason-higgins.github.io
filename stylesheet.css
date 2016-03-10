@@ -1,0 +1,24 @@
+html *
+{
+	font-family: 'Lora', serif;
+}
+
+body {
+	background-color: #c4cecd;
+}
+
+.info {
+	float: left;
+}
+
+#jason-face {
+	float: right;
+	margin-left: 50px;
+}
+
+#container {
+    width: 900px;
+    height: 100%;
+    margin: 20px auto;
+    position: relative;
+}
